@@ -1,0 +1,2 @@
+C:\Users\91814\source\repos\Newmethod\Newmethod\obj\Debug\Newmethod.csprojAssemblyReference.cache
+C:\Users\91814\source\repos\Newmethod\Newmethod\obj\Debug\Newmethod.csproj.CoreCompileInputs.cache
